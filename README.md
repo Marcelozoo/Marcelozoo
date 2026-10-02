@@ -1,16 +1,14 @@
-## Hi there 👋
+## Marcelo Bento Côgo ##
 
-<!--
-**Marcelozoo/Marcelozoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Graduado em Bacharel de Ciência da Computação pela Universidade Federal do Espírito Santo - Campus de Alegre (UFES)
 
-Here are some ideas to get you started:
+## Stack ##
+<div style="display:flex; justify-content:space-between; align-items:center"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
